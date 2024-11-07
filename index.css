@@ -1,0 +1,22 @@
+body{
+    background-color: bisque
+}
+table{
+    border-color: burlywood;
+    width: 100%;
+    margin-bottom: 20px;
+}
+th,td{
+    border: 1px solid brown;
+    padding:8px;
+    text-align: center;
+}
+th{
+    background-color: red;
+}
+td{
+    background-color: rgb(252, 220, 228);
+}
+h2{
+    color: darkblue;
+}
